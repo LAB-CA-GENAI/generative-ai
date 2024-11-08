@@ -1,17 +1,17 @@
 # Your Production Google Cloud project id
-prod_project_id = "your-production-project-id"
+prod_project_id = "lab-ca-305117"
 
 # Your Staging / Test Google Cloud project id
-staging_project_id = "your-staging-project-id"
+staging_project_id = "lab-ca-305117"
 
 # Your Google Cloud project ID that will be used to host the Cloud Build pipelines.
-cicd_runner_project_id = "your-cicd-project-id"
+cicd_runner_project_id = "lab-ca-305117"
 
 # Name of the host connection you created in Cloud Build
-host_connection_name = "your-host-connection-name"
+host_connection_name = "e2e-gen-ai-app-starter-pack"
 
 # Name of the repository you added to Cloud Build
-repository_name = "your-repository-name"
+repository_name = "LAB-CA-GENAI-generative-ai"
 
 # The Google Cloud region you will use to deploy the infrastructure
 region = "us-central1"
